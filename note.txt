@@ -1,1 +1,4 @@
 https://www.aikido.dev/
+https://dev.to/buildwebcrumbs/javascript-security-simple-practices-to-secure-your-frontend-18ii?ref=dailydev
+https://dev.to/buildwebcrumbs/debugging-javascript-tools-and-techniques-2i4b
+https://www.webcrumbs.org/frontend-ai
